@@ -1,5 +1,9 @@
 # Apple Unity Plug-Ins
 
+## Fix notes
+Place the link.xml file in the Assets folder or any subfolder within it (e.g., Assets/Scripts).
+
+
 ## Overview
 The Apple Unity Plug-Ins expose a selection of Apple platform frameworks to Unity developers.
 
