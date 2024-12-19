@@ -1,7 +1,8 @@
 # Apple Unity Plug-Ins
 
 ## Fix notes
-Place the `link.xml` file in the `Assets` folder or any subfolder within it (e.g., Assets/Scripts).
+- Error: `MissingMethodException: Default constructor not found for type Apple.Core.Runtime.NSData` and stuck at `await Apple.GameKit.GKLocalPlayer.Local.FetchItems()`
+  Fix: Place the `link.xml` file in the `Assets` folder or any subfolder within it (e.g., Assets/Scripts).
 
 # Fixed
 - Errors on Android platform
